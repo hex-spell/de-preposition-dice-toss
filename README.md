@@ -2,6 +2,7 @@
 
 ## Simple python terminal game to practice Deutsch two-way prepositions.
 
+- run `pip install`
 - Execute `run.py`
 - It will output a subject, a preposition and an object
 - Write a sentence in German using those three words
